@@ -1,7 +1,7 @@
 # Douglas Ramos
 Sou estudante de Ciência da Computacao e desenvolvedor Front-End
 
-## Conecte-se comigo
+## Conecte-se comigo!
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheDuit)
 ## Habilidades
